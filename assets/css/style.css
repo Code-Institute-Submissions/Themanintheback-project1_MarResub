@@ -130,3 +130,66 @@ hr {
     margin: 20px 0;
     font-size: 280%;
 }
+
+#image-containment {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    margin: auto;
+}
+
+#box-image {
+    background: url(/assets/images/pexels-katerina-holmes-5907591.jpg) no-repeat center center;
+    height: 100%;
+    background-size: cover;
+}
+
+/* The dates and times */
+
+#when {
+    background-image: url(/assets/images/pexels-klaus-nielsen-6287314.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#when div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+#when h2 {
+    color: #fafafa;
+}
+
+footer {
+    height: 150px;
+
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a
+}
