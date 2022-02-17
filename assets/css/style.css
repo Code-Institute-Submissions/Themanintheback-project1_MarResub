@@ -79,6 +79,61 @@ h1, h2 {
     height: 600px;
 }
 
+#about-left {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: aqua;
+}
+
+#about-right {
+    padding-top: 30px;
+    width: 40%;
+    float: right;
+    background-color: rgb(255, 0, 157);
+}
+
+#about-center {
+    width: 40%;
+    margin: 0 auto;
+    background-color: #f16c6b;
+}
+
+#about-center-space {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+}
+
+.about-left-heading {
+    width: 70%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+}
+
+.about-right-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+#about-center-heading {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+.about-right-heading h2 {
+    text-align: right;
+}
+
+.about-right-heading p {
+    text-align: right;
+}
+
 /* why make pasta */
 
 #why-pasta {
@@ -120,6 +175,7 @@ hr {
     width: 60%;
     float: left;
     line-height: 20px;
+    clear: both;
     margin-bottom: 50px;
 }
 
@@ -182,7 +238,6 @@ hr {
 
 footer {
     height: 150px;
-
 }
 
 .social-networks {
@@ -199,6 +254,15 @@ footer {
     padding: 5%;
     color: #3a3a3a
 }
+#address {
+    text-align: center;
+    font-size: 120%;
+    margin: 1%;
+    padding: 5%;
+    color: #fafafa;
+    background-color: black;
+}
+/* signup page*/
 
 .form-page {
     clear: left;
