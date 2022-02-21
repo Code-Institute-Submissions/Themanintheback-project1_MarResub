@@ -87,14 +87,12 @@ h1, h2 {
     padding-top: 30px;
     width: 40%;
     float: left;
-    background-color: aqua;
 }
 
 #about-right {
     padding-top: 30px;
     width: 40%;
     float: right;
-    background-color: rgb(255, 0, 157);
 }
 
 #about-center {
@@ -117,11 +115,10 @@ h1, h2 {
 }
 
 .about-right-heading {
-    width: 60%;
+    width: 70%;
     float: left;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
 }
 
 #about-center-heading {
@@ -330,7 +327,12 @@ footer {
     
     #about-us {
         width: 80%;
+        height: 500px;
         margin: 0 auto;
+    }
+
+    #about-left, #about-right {
+        width: 100%;
     }
     
     #why-pasta {
@@ -365,4 +367,56 @@ footer {
     }
 }
 
+/* screen sizes from 950px wide and lower */
+
+@media screen and (max-width:950px) {
+    
+    #menu {
+        clear: both;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 25px;
+        line-height: 25px;
+        margin: 0;
+    }
+    
+    #about-left, #about-right {
+        width: inherit
+    }
+    
+    .about-left-heading h2, .about-right-heading h2 {
+        width: 100%;
+        text-align: center
+    }
+    
+    .about-left-heading p, about-right-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
+
+    #why-pasta {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+    
+    .left-box-heading, .right-box-heading {
+        width: inherit
+    }
+    
+    .left-box-heading h2, .right-box-heading h2 {
+        width: 100%;
+        text-align: center
+    }
+    
+    .left-box-heading p, .right-box-heading p {
+        text-align: center;
+        padding: 0 20px;
+    }
+    .form-box {
+        width: 100%;
+        left: 0%
+        
+    }
+}
 
