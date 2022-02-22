@@ -204,7 +204,7 @@ hr {
 }
 
 #box-image {
-    background: url(/assets/images/pexels-katerina-holmes-5907591.jpg) no-repeat center center;
+    background: url(../images/pexels-katerina-holmes-5907591.jpg) no-repeat center center;
     height: 100%;
     background-size: cover;
 }
@@ -212,7 +212,7 @@ hr {
 /* The dates and times */
 
 #when {
-    background-image: url(/assets/images/pexels-klaus-nielsen-6287314.jpg);
+    background-image: url(../images/pexels-klaus-nielsen-6287314.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
