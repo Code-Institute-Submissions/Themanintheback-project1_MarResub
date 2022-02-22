@@ -379,6 +379,9 @@ footer {
         height: 150px;
         padding: 0
     }
+
+    
+
 }
 
 /* screen sizes from 950px wide and lower */
@@ -432,5 +435,15 @@ footer {
         left: 0%
         
     }
+    
+    #gallery-image {
+        column-count: 3;
+    }
 }
 
+/* For small screen sizes 800px and down */
+@media screen and (max-width: 800px) {
+    #gallery-image {
+        column-count: 2;
+    }
+}
