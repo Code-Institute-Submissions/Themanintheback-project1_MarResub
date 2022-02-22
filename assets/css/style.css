@@ -318,6 +318,20 @@ footer {
     color: #f16c6b;
 }
 
+/* gallery */
+
+#gallery-image {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#gallery-image > img {
+    width: 100%;
+}
+
+
 /* media query section */
 
 
