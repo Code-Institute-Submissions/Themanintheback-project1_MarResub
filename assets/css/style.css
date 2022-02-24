@@ -399,7 +399,7 @@ footer {
     }
     
     #about-left, #about-right {
-        width: inherit
+        width: 78%;
     }
     
     .about-left-heading h2, .about-right-heading h2 {
@@ -434,12 +434,6 @@ footer {
 
     #image-containment {
         width: 90%;
-    }
-
-    #center-text {
-        text-align: center;
-        margin: 20px 0;
-        font-size: 250%;
     }
 
     .form-box {
