@@ -6,11 +6,6 @@
     border: none;
 }
 
-html,body{
-    overflow-x: hidden;
-    overflow-y: auto;
-  }
-
 body {
     font-family: Lato,sans-serif;
     font-weight: 300;
@@ -389,6 +384,11 @@ footer {
 
 @media screen and (max-width:950px) {
     
+    html,body{
+        overflow-x: hidden;
+        overflow-y: auto;
+      }
+
     #menu {
         clear: both;
         float: left;
