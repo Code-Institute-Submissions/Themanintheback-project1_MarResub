@@ -436,6 +436,12 @@ footer {
         width: 90%;
     }
 
+    #center-text {
+        text-align: center;
+        margin: 20px 0;
+        font-size: 250%;
+    }
+
     .form-box {
         width: 80%;
         left: 0%
