@@ -11,6 +11,10 @@ body {
     font-weight: 300;
 }
 
+#bold {
+    font-weight: bold;
+}
+
 /* logos and headings */
 
 h1, h2 {
