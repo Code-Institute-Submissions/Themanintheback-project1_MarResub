@@ -106,7 +106,7 @@ The How To Pasta website is a website for adults to sign up for cooking classes 
 
 - #### Gallery page
 
-    - The gallery page is collection of images used to show the user what they can and could be making in the class.
+    - The gallery page is a collection of images used to show the user what they can and could be making in the class.
 
 <h2><img src="assets/images/Gallery.png"><h2>
 <hr>
@@ -117,9 +117,9 @@ The How To Pasta website is a website for adults to sign up for cooking classes 
 
     - placed in front of the image is the form box where the user can imput there first name, last name, email address, day and time they want to take the class.
 
-    - When the user places there cursor over the imput boxes there borders will turn red.
+    - When the user places there cursor over the imput box it turns red.
 
-    - The day and time options for the user with presented as a dropdown menu.
+    - The day and time options for the user is presented as a dropdown menu.
 
 <h2><img src="assets/images/sign-up-page.png"><h2>
 <h2><img src="assets/images/sign-up.png"><h2>
@@ -133,7 +133,7 @@ The How To Pasta website is a website for adults to sign up for cooking classes 
 
     - I have confirmed that the navigational links on all pages are working.
 
-    - I have confirmed that the form is working: requires entries in all fields with emails of only in the email field.
+    - I have confirmed that the form is working: requires entries in all fields with emails only in the email field.
 
     - I have confirmed that the submit button works.
 
