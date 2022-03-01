@@ -5,12 +5,11 @@
 The How To Pasta website is a website for adults to sign up for cooking classes on how  to make fresh pasta.
 
 <h2><img src="assets/images/am-I-responsive-2.png"><h2>
-<hr>
 
-## User Experience (UX)
-<hr>
 
-- ### User Stories
+# User Experience (UX)
+
+- ## User Stories
 
     - #### First Time Vistitor Goals
 
@@ -18,23 +17,22 @@ The How To Pasta website is a website for adults to sign up for cooking classes 
 
         2. As a First Time Visitor, I want to easily navigate through the website to find what I'm looking for. 
 
-- ### Design
-    - #### Colour Scheme
+- ## Design
+    - ### Colour Scheme
 
         - The main colors used on the website are black and white.
 
-    - #### Typography
+    - ### Typography
 
         - The Lato font is the main font used throughout the website with the oswald font used for the h1 and h2 headings. The Sans-Serif font is used as the fallback just in case for some reason they are not being imported from  Google fonts.
 
-    - #### Imagery
+    - ### Imagery
 
         - Imagery is used throughout the website to catch the user's attention.
 
-### Features
-<hr>
+# Features
 
-- ### Navigation
+- ## Navigation
     
     - placed at the top left of the page you have the website name: How To Pasta that links to top of the home page.
 
@@ -48,9 +46,9 @@ The How To Pasta website is a website for adults to sign up for cooking classes 
 
 
 <h2><img src="assets/images/navigation.png"></h2>
-<hr>
 
-- ### Header
+
+- ## Header
 
     - The Header shows the name of the site at the top left of page.
     
@@ -59,9 +57,8 @@ The How To Pasta website is a website for adults to sign up for cooking classes 
     - The also shows the hero image for the site used to catch the users attention.
 
 <h2><img src="assets/images/hero-image.png"></h2>
-<hr>
 
-- ### The About Us Section
+- ## The About Us Section
 
     - At the top of the section you have the heading: About Us.
 
@@ -84,7 +81,7 @@ The How To Pasta website is a website for adults to sign up for cooking classes 
 <h2><img src="assets/images/why-pasta.png"><h2>
 <hr>
 
-- #### Days and times
+- ### Days and times
 
     - This section of the page provides the user with a table of the avaliable days and times they are able to take the class.
 
@@ -152,7 +149,7 @@ The How To Pasta website is a website for adults to sign up for cooking classes 
 
 - ### Lighthouse Test
 
-    - I confirmed that all pages of the website are accessible by the Lighthouse devlool.
+    - I confirmed that all pages of the website are accessible by the Lighthouse devtool.
 
 <h2><img src="assets/images/lighthouse-report-index.png"><h2>
 <h2><img src="assets/images/lighthouse-report-gallery.png"><h2>
@@ -171,3 +168,27 @@ The How To Pasta website is a website for adults to sign up for cooking classes 
 - ### Unfixed Bugs
 
     - No unfixed bugs.
+
+# Deployment
+
+- ## The website was deployed to GitHub pages. These are the steps...
+
+    - In my GitHub repository, go to the Settings tab.
+
+    - From the Settings tab navigate down the page to the GitHub Pages tab.
+
+    - From the source section drop-down menu, select Main Branch and cilck Save.
+    
+    - Once that is done a link to the website will be provided.
+
+The link can be found here: [How To Pasta](https://themanintheback.github.io/project1/index.html)
+
+# credit
+
+ ## content
+
+- The code for the social media links, table of days and times was taken from the CI [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) project.
+
+## Media
+
+- All images on the webstie were taken from pexels.
