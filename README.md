@@ -1,108 +1,194 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1 align="center">How To Pasta</h1>
 
-Welcome Themanintheback,
+[view my project here.](https://themanintheback.github.io/project1/index.html)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The How To Pasta website is a website for adults to sign up for cooking classes on how  to make fresh pasta.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+<h2><img src="assets/images/am-I-responsive-2.png"><h2>
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+# User Experience (UX)
 
-`python3 -m http.server`
+- ## User Stories
 
-A blue button should appear to click: _Make Public_,
+    - #### First Time Vistitor Goals
 
-Another blue button should appear to click: _Open Browser_.
+        1. As a First Time Vistor, I want to understand the purpose of the website and what the company is providing.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+        2. As a First Time Visitor, I want to easily navigate through the website to find what I'm looking for. 
 
-A blue button should appear to click: _Make Public_,
+- ## Design
+    - ### Colour Scheme
 
-Another blue button should appear to click: _Open Browser_.
+        - The main colors used on the website are black and white.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+    - ### Typography
 
-To log into the Heroku toolbelt CLI:
+        - The Lato font is the main font used throughout the website with the oswald font used for the h1 and h2 headings. The Sans-Serif font is used as the fallback just in case for some reason they are not being imported from  Google fonts.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+    - ### Imagery
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+        - Imagery is used throughout the website to catch the user's attention.
 
-------
+# Features
 
-## Release History
+- ## Navigation
+    
+    - placed at the top left of the page you have the website name: How To Pasta that links to top of the home page.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+    - The other links are placed at the top right of the page: Home, Gallery and Sign up.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+    - The Home link just like the website name takes the user back to top of the home page.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+    - The Gallery link takes then user to the sites gallery page with images taken from the class.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+    - The Sign Up link takes the user to the sites from page where the user can sign up for the classes by entering there first name, last name, email address. And finaly day and time of when you want to take the class.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+<h2><img src="assets/images/navigation.png"></h2>
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+- ## Header
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+    - The Header shows the name of the site at the top left of page.
+    
+    - The navigation links are at the top right of the page so the user can move from one page to the other.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+    - The also shows the hero image for the site used to catch the users attention.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+<h2><img src="assets/images/hero-image.png"></h2>
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- ## The About Us Section
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+    - At the top of the section you have the heading: About Us.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+    - On the left you have the WELCOME area where the company gives a introduction and explains what they are providing to the user.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+    - On the right you have the IN THE CLASS area which goes into detail about what you will be doing 
+    in the class.
 
-------
+<h2><img src="assets/images/about-us.png"></h2>
+<hr>
 
-## FAQ about the uptime script
+- ## The Why Learn To Make Pasta section
+    
+    - At the top you have the section heading.
 
-**Why have you added this script?**
+    - In the middle of the section the is a background image of fresh pasta for aesthetics.
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+    - In section of the page it provides the user with four benefits of making fresh pasta instead of store bought pasta.
 
-**How will this affect me?**
+<h2><img src="assets/images/why-pasta.png"><h2>
+<hr>
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+- ### Days and times
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+    - This section of the page provides the user with a table of the avaliable days and times they are able to take the class.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+    - The price is also provided.
 
-**So….?**
+    - The table is also a link that will take the user to the Sign Up page where they can register for classes.
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+<h2><img src="assets/images/days-times.png"><h2>
+<hr>
 
-**Can I opt out?**
+- #### Contact Section
+    
+    - The contact section also includes social media icons that link to facebook, twitter,
+    Youtube and Instagram which the users can follow.
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+    - The Contact Section encourages users to get contact by providing a phone number, email address and street address. 
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+<h2><img src="assets/images/social-media.png"><h2>
 
-**Anything more?**
+<h2><img src="assets/images/contact.png"><h2>
+<hr>
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+- #### Gallery page
 
----
+    - The gallery page is collection of images used to show the user what they can and could be making in the class.
 
-Happy coding!
+<h2><img src="assets/images/Gallery.png"><h2>
+<hr>
+
+- #### Sign Up page
+
+    - The Sign Up page has a background image for aesthetics.
+
+    - placed in front of the image is the form box where the user can imput there first name, last name, email address, day and time they want to take the class.
+
+    - When the user places there cursor over the imput boxes there borders will turn red.
+
+    - The day and time options for the user with presented as a dropdown menu.
+
+<h2><img src="assets/images/sign-up-page.png"><h2>
+<h2><img src="assets/images/sign-up.png"><h2>
+<hr>
+
+- # Testing
+
+    - I confimed that the pages of the website work using different browsers: Chrome, Firefox, Safari.
+
+    - I confirmed the website is responsive and funtions on all standard screen sizes using the devtools toolbar.
+
+    - I have confirmed that the navigational links on all pages are working.
+
+    - I have confirmed that the form is working: requires entries in all fields with emails of only in the email field.
+
+    - I have confirmed that the submit button works.
+
+- ### Validator Test
+
+    - HTML
+        
+        - No errors were found when all HTML pages passed through the official W3C validator.
+
+    - CSS
+
+        - No errors were found when CSS style sheet passed through the official Jigsaw validator.
+
+- ### Lighthouse Test
+
+    - I confirmed that all pages of the website are accessible by the Lighthouse devtool.
+
+<h2><img src="assets/images/lighthouse-report-index.png"><h2>
+<h2><img src="assets/images/lighthouse-report-gallery.png"><h2>
+<h2><img src="assets/images/lighthouse-report-sign-up.png"><h2>
+
+- ### Bugs
+
+    solved bugs
+
+    - When the website was deployed to GitHub Pages the images for gallery pages and the background image for the sign up page failed to load.
+
+    - I had missed a full stop (.) when typing the file paths.
+
+    - I fixed the problem.
+
+- ### Unfixed Bugs
+
+    - No unfixed bugs.
+
+# Deployment
+
+- ## The website was deployed to GitHub pages. These are the steps...
+
+    - In my GitHub repository, go to the Settings tab.
+
+    - From the Settings tab navigate down the page to the GitHub Pages tab.
+
+    - From the source section drop-down menu, select Main Branch and cilck Save.
+    
+    - Once that is done a link to the website will be provided.
+
+The link can be found here: [How To Pasta](https://themanintheback.github.io/project1/index.html)
+
+# credit
+
+ ## content
+
+- The code for the social media links, table of days and times was taken from the CI [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) project.
+
+## Media
+
+- All images on the webstie were taken from pexels.
