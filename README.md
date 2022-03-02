@@ -125,31 +125,31 @@ The How To Pasta website is a website for adults to sign up for cooking classes 
 <h2><img src="assets/images/sign-up.png"><h2>
 <hr>
 
-- # Testing
+ # Testing
 
-    - I confimed that the pages of the website work using different browsers: Chrome, Firefox, Safari.
+- I confimed that the pages of the website work using different browsers: Chrome, Firefox, Safari.
 
-    - I confirmed the website is responsive and funtions on all standard screen sizes using the devtools toolbar.
+- I confirmed the website is responsive and funtions on all standard screen sizes using the devtools toolbar.
 
-    - I have confirmed that the navigational links on all pages are working.
+- I have confirmed that the navigational links on all pages are working.
 
-    - I have confirmed that the form is working: requires entries in all fields with emails only in the email field.
+- I have confirmed that the form is working: requires entries in all fields with emails only in the email field.
 
-    - I have confirmed that the submit button works.
+- I have confirmed that the submit button works.
 
-- ### Validator Test
+## Validator Test
 
-    - HTML
-        
-        - No errors were found when all HTML pages passed through the official W3C validator.
+- HTML
 
-    - CSS
+- No errors were found when all HTML pages passed through the official W3C validator.
 
-        - No errors were found when CSS style sheet passed through the official Jigsaw validator.
+- CSS
 
-- ### Lighthouse Test
+- No errors were found when CSS style sheet passed through the official Jigsaw validator.
 
-    - I confirmed that all pages of the website are accessible by the Lighthouse devtool.
+ ## Lighthouse Test
+
+- I confirmed that all pages of the website are accessible by the Lighthouse devtool.
 
 <h2><img src="assets/images/lighthouse-report-index.png"><h2>
 <h2><img src="assets/images/lighthouse-report-gallery.png"><h2>
