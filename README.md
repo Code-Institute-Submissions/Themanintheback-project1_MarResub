@@ -9,13 +9,20 @@ The How To Pasta website is a website for adults to sign up for cooking classes 
 
 # User Experience (UX)
 
-- ## User Stories
+ ## User Stories
 
-    - #### First Time Vistitor Goals
+- ## First Time Visitor Goals
 
-        1. As a First Time Vistor, I want to understand the purpose of the website and what the company is providing.
+    1. As a First Time Vistor, I want to understand the purpose of the website and what the company is providing.
 
-        2. As a First Time Visitor, I want to easily navigate through the website to find what I'm looking for. 
+    2. As a First Time Visitor, I want to easily navigate through the website to find what I'm looking for.
+
+- ## Returning visitor
+    1. As a Returning Visitor, I want to be able to contact the company if I may have any questions.
+
+    2. As a Returning Visitor, I want iformation on the class 
+
+    3. As a Returning Visitor, I want to able to find the social and commuinity links.
 
 - ## Design
     - ### Colour Scheme
